@@ -1,0 +1,6 @@
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Debug\TestEX1-KFS.exe.config
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\obj\Debug\TestEX1-KFS.csprojResolveAssemblyReference.cache
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Debug\TestEX1-KFS.exe
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Debug\TestEX1-KFS.pdb
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\obj\Debug\TestEX1-KFS.exe
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\obj\Debug\TestEX1-KFS.pdb

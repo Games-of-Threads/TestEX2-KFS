@@ -1,0 +1,13 @@
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Release\TestEX1-KFS.exe.config
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Release\TestEX1-KFS.exe
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Release\TestEX1-KFS.pdb
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\obj\Release\TestEX1-KFS.exe
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\obj\Release\TestEX1-KFS.pdb
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\obj\Release\TestEX1-KFS.csprojResolveAssemblyReference.cache
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Release\xunit.runner.visualstudio.testadapter.dll
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Release\xunit.runner.reporters.net452.dll
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Release\xunit.runner.utility.net452.dll
+C:\Users\reape\Desktop\Test\TestEX1-KFS\TestEX1-KFS\TestEX1-KFS\bin\Release\xunit.abstractions.dll
+C:\Users\reape\Desktop\Test\TestEX2-KFS\TestEX2-KFS\TestEX1-KFS\bin\Release\TestEX1-KFS.exe.config
+C:\Users\reape\Desktop\Test\TestEX2-KFS\TestEX2-KFS\TestEX1-KFS\obj\Release\TestEX1-KFS.exe
+C:\Users\reape\Desktop\Test\TestEX2-KFS\TestEX2-KFS\TestEX1-KFS\obj\Release\TestEX1-KFS.pdb
