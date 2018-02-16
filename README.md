@@ -46,7 +46,7 @@ after some work I found that it wasn't just any type of exceptions but a argumen
 and I'm starting to wonder if my constant chase for learning this new tool, have resulted in me trying to appease my test cases instead of following them correctly, I'm unsure how to best explain it but it feels like I'm doing the reverse scientific method, as of writing I'm tired of going in circles, and I'll revisit this part on sunday if I have energy for it.
 
 ## Task 3
-task is to explain ![this](https://smartbear.com/learn/code-review/guide-to-code-review-process/) checklist step by step, and what I as a programmer feel are most useful.   
+task is to explain [this](https://smartbear.com/learn/code-review/guide-to-code-review-process/) checklist step by step, and what I as a programmer feel are most useful.   
 
 It mostly descripes 2 main factors, one being pre production work, that's aimed at increasing the quality and quantity of each individual developer by both agreeing on guidelines, and setting quantifyable goals to allow better monitoring of the progess.
 the second is a focus on structured testing and code reviewing, since the paper indicates shorter sessions of code review have the best effect, while longer processes results in fatigue.   
