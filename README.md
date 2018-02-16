@@ -30,7 +30,10 @@ the metric analyses reveals a rather complex code setup, where the primary compl
 From observating the above mentioned function and referencing [this](http://www.aivosto.com/project/help/pm-complexity.html) I can conclude it's standard CC and not CC2 or CC3.   
 
 ### part 5
-to be continued.   
+after seeing the complexity I made a refactor pass and got the following result.   
+![](https://i.gyazo.com/d1a036df21a60035460a9d5c9f946baf.png)   
+although it's only minor reduction for the class, the complexity have been spread out for easier management, this was achieved by removing alot of the case functions, and reducing the if statments in a logical deduction that if the inputs are correct, it's either 3 cases, there's only 1 state for either equilavante and scalene, so testing only those reduces the overhead as testing all possible isolence would be exhaustive.
+after writing this I think I removed check for 0 or below, xunit test should reveal this though.
 
 ### part 6
 to be continued.   
@@ -43,7 +46,8 @@ given the throw exception part of the addperson function doesn't outright stop i
 
 ## Task 5
 I don't really care about naming conventions, the most important idea is keeping things simple, if you keep the function size low and have descriptions on said function, any programmer of any background and deduct what happens where and when, the more complex a function becomes the harder it becomes to deduce it's original and current purpose.
-This is especially important for mainenance as taking over code for new people will always result in them having to adapt to a new naming convention, so keeping it simple and seperated larger functions to smaller and document them will improve the production for everyone.
+This is especially important for mainenance as taking over code for new people will always result in them having to adapt to a new naming convention, so keeping it simple and seperated larger functions to smaller and document them will improve the production for everyone.   
+But to increase team productivity it's best the team decide for the respective product, what naming convention and code structure is to be used doing development.
 
 ## Task 6
 since I was sadly sick, but have been there last spring semester so I'm fairly sure I remmeber the last time I had that presentation, I can state from hazy memory the three most important things about testing that I remmeber.
